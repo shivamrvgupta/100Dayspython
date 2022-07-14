@@ -19,12 +19,21 @@ DAY-2 : Understanding the Data types and How to Manipulate Strings
     
     ----------------X-X-X-X-X-X-X-X-X-X-X----------------
 
-DAY-3 : Understanding the Data types and How to Manipulate Strings 
-    3.1 - 
-    3.2 - 
-    3.3 - 
-    3.4 - 
-    3.5 - 
+DAY-3 : Control Flow and Logic Operators 
+    3.1 - Control Flow if/else Odd/Even
+    3.2 - Nested If/else BMI 2.0 & leap
+    3.3 - ELIF --- Leap year
+    3.4 - Logical Operators //// Love Caclulator
+    3.5 - treasure Island
+    
+    ----------------X-X-X-X-X-X-X-X-X-X-X---------------- 
+ 
+DAY-4 : Radomisation and Python List
+    4.1 - Random Module 
+    4.2 - 
+    4.3 - 
+    4.4 - 
+    4.5 - 
     
     ----------------X-X-X-X-X-X-X-X-X-X-X---------------- 
  
