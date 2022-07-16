@@ -30,10 +30,10 @@ DAY-3 : Control Flow and Logic Operators
  
 DAY-4 : Radomisation and Python List
     4.1 - Random Module 
-    4.2 - 
-    4.3 - 
-    4.4 - 
-    4.5 - 
+    4.2 - Heads/Tails
+    4.3 - Understanding the Offset and Appending Items to Lists
+    4.4 - Treasure Map
+    4.5 - Rock paper scissors
     
     ----------------X-X-X-X-X-X-X-X-X-X-X---------------- 
  
