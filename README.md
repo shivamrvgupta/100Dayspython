@@ -37,3 +37,20 @@ DAY-4 : Radomisation and Python List
     
     ----------------X-X-X-X-X-X-X-X-X-X-X---------------- 
  
+DAY-5 : Python Loops 
+    5.1 - LOOPS
+    5.2 - Average
+    5.3 - Range
+    5.4 - FizzBuzz
+    5.5 - Password Generator
+    
+    ----------------X-X-X-X-X-X-X-X-X-X-X----------------  
+ 
+DAY-6 : Python Loops 
+    6.1 - Defining and Calling Python Function
+    6.2 - 
+    6.3 - 
+    6.4 - 
+    6.5 - 
+    
+    ----------------X-X-X-X-X-X-X-X-X-X-X----------------  
