@@ -90,10 +90,10 @@ DAY-11 : The Blackjack Capstone Project
     ----------------X-X-X-X-X-X-X-X-X-X-X----------------
 
 DAY-12 : Namespaces: Local vs. Global Scope
-12.1 - 
-12.2 - 
-12.3 - 
-12.4 - 
+12.1 - GLobal Scope
+12.2 - local scope
+12.3 - block scope
+12.4 - how to modify global scope
 12.5 - 
 
     ----------------X-X-X-X-X-X-X-X-X-X-X----------------
