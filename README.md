@@ -70,10 +70,10 @@ DAY-8 : Function Parameter & Caesar Chiper
 
 
 DAY-9 : Dictionaries, Nesting and Secret Auction
-9.1 - The Python Dictionary Deep Drive
+9.1 - Python Dictionary
+9.2 - The grades Task
+9.3 - Nested list and dictionaries
 9.2 -
-9.3 -
-9.2 -
-9.5 -
+9.5 - Auction Program
 
     ----------------X-X-X-X-X-X-X-X-X-X-X----------------
