@@ -58,8 +58,7 @@ DAY-7 : HangMan
 7.1 - HAng man game  
  ----------------X-X-X-X-X-X-X-X-X-X-X----------------
 
-
-DAY-8 : Function Parameter & Caesar Chiper 
+DAY-8 : Function Parameter & Caesar Chiper
 8.1 - Functions Input
 8.2 - Positioanal vs Keyword Argument
 8.3 - Calculate the Number of paints
@@ -68,12 +67,20 @@ DAY-8 : Function Parameter & Caesar Chiper
 
     ----------------X-X-X-X-X-X-X-X-X-X-X----------------
 
-
 DAY-9 : Dictionaries, Nesting and Secret Auction
 9.1 - Python Dictionary
 9.2 - The grades Task
 9.3 - Nested list and dictionaries
-9.2 -
+9.4 - Task 2
 9.5 - Auction Program
+
+    ----------------X-X-X-X-X-X-X-X-X-X-X----------------
+
+DAY-10 : Function with Outputs
+10.1 - Function with Outputs
+10.2 - Multiple Strings with outputs
+10.3 - Docstring
+10.4 - Calculator
+10.5 - 
 
     ----------------X-X-X-X-X-X-X-X-X-X-X----------------
