@@ -57,3 +57,23 @@ DAY-6 : Python Loops
 DAY-7 : HangMan
 7.1 - HAng man game  
  ----------------X-X-X-X-X-X-X-X-X-X-X----------------
+
+
+DAY-8 : Function Parameter & Caesar Chiper 
+8.1 - Functions Input
+8.2 - Positioanal vs Keyword Argument
+8.3 - Calculate the Number of paints
+8.2 - Prime Numbers
+8.5 - Caser Cipher
+
+    ----------------X-X-X-X-X-X-X-X-X-X-X----------------
+
+
+DAY-9 : Dictionaries, Nesting and Secret Auction
+9.1 - The Python Dictionary Deep Drive
+9.2 -
+9.3 -
+9.2 -
+9.5 -
+
+    ----------------X-X-X-X-X-X-X-X-X-X-X----------------
