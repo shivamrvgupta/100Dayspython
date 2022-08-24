@@ -81,6 +81,19 @@ DAY-10 : Function with Outputs
 10.2 - Multiple Strings with outputs
 10.3 - Docstring
 10.4 - Calculator
-10.5 - 
+10.5 - Print vs Return
+
+    ----------------X-X-X-X-X-X-X-X-X-X-X----------------
+
+DAY-11 : The Blackjack Capstone Project
+
+    ----------------X-X-X-X-X-X-X-X-X-X-X----------------
+
+DAY-12 : Namespaces: Local vs. Global Scope
+12.1 - 
+12.2 - 
+12.3 - 
+12.4 - 
+12.5 - 
 
     ----------------X-X-X-X-X-X-X-X-X-X-X----------------
