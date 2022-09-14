@@ -94,6 +94,15 @@ DAY-12 : Namespaces: Local vs. Global Scope
 12.2 - local scope
 12.3 - block scope
 12.4 - how to modify global scope
-12.5 - 
+12.5 - guess the game
+
+    ----------------X-X-X-X-X-X-X-X-X-X-X----------------
+
+DAY-13 : Debugging: How to Find and Fix Errors in your Code
+13.1 - Decribe the problem
+13.2 - reproduce the bug
+13.3 - play compluter and evaluate each line
+13.4 - editor error / brackets erorr
+13.5 - Interactive coding
 
     ----------------X-X-X-X-X-X-X-X-X-X-X----------------
