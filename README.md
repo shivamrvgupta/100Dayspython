@@ -106,3 +106,38 @@ DAY-13 : Debugging: How to Find and Fix Errors in your Code
 13.5 - Interactive coding
 
     ----------------X-X-X-X-X-X-X-X-X-X-X----------------
+
+DAY-14 : Higher lower game project
+
+    ----------------X-X-X-X-X-X-X-X-X-X-X----------------
+
+DAY-15 : Local Setup and Coffee Making Machine
+
+    ----------------X-X-X-X-X-X-X-X-X-X-X----------------
+
+DAY-16 : Object Oriented Program (OOP)
+16.1 - How to use OOP
+16.2 - Constructing Classes Attributes and Method
+16.3 - Adding PyPi Packages 
+16.4 - Calling Methods
+16.5 - Coffee Machine Using OOPS
+
+    ----------------X-X-X-X-X-X-X-X-X-X-X----------------
+
+DAY-17 : The Quiz and The benefits of OOP
+17.1 - Create Your own class
+17.2 - Quiz Project
+
+    ----------------X-X-X-X-X-X-X-X-X-X-X----------------
+
+DAY-18 : Turtle And GUI Interface
+18.1 - Turtle Graphics Documentation
+18.2 - 5 different Projects 
+
+    ----------------X-X-X-X-X-X-X-X-X-X-X----------------
+
+DAY-18 : Instance,State and Higher order function 
+18.1 - Event Listeners
+18.2 - 
+
+    ----------------X-X-X-X-X-X-X-X-X-X-X----------------
